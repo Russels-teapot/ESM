@@ -1,0 +1,23 @@
+{
+  "name": "esm_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Russels-teapot/ESM.git"
+  },
+  "author": "Iurii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Russels-teapot/ESM/issues"
+  },
+  "homepage": "https://github.com/Russels-teapot/ESM#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
